@@ -1,0 +1,56 @@
+body {
+  font-family: 'Darker Grotesque', sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f4f4f4;
+}
+
+h1 {
+  font-weight: 700;
+  color: #007bff;
+}
+
+.alert {
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+input[type="url"] {
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+}
+
+input[type="url"]:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+#short-url {
+  font-weight: bold;
+  color: #28a745;
+  word-break: break-all;
+}
+
+svg {
+  transition: transform 0.3s;
+}
+
+svg:hover {
+  transform: scale(1.1);
+}
