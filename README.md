@@ -1,6 +1,3 @@
-Here's a sample README file content for your URL Shortener project, including instructions for adding a screenshot:
-
-````markdown
 # URL Shortener
 
 A simple URL shortener application built with Django. This project allows users to enter long URLs and receive a shortened version for easier sharing.
@@ -22,7 +19,6 @@ A simple URL shortener application built with Django. This project allows users 
    ```bash
    git clone https://github.com/Y00RG/URL-Shortener.git
    ```
-````
 
 2. Navigate to the project directory:
 
